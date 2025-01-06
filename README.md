@@ -6,7 +6,7 @@
            |   |                                         |    |
            |   | All work & no play makes Jack a dull boy|    |
            |   |                                         |    |
-           |   | All work & no play makes Jack a dull boy|    |
+           |   | All work & no play makes jack a dull boy|    |
            |   |                                         |    |
            |   | All work & no PLay makes Jack a dull boy|    |
            |   |                                         |    |
